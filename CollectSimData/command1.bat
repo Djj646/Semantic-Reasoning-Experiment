@@ -1,0 +1,1 @@
+python main.py -M 3 --traffic-lights --enable-save --data-index 1 --vel 20
