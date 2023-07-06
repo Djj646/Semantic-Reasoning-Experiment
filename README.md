@@ -18,7 +18,7 @@ python main.py
 
 ### KITTIDatasetProcessing
 
-Process kitti dataset to Get the nav map corresponding to the position:
+Process kitti dataset to get the nav map corresponding to the position:
 
 ```shell
 python pose.py
