@@ -65,3 +65,6 @@ Here are some instrumental scripts:
 
 - `monitor.py`: monitor which turns and their corresponding time stamps in the entire trip.
 - `total_average.py`: calculates the average of the turn evaluation and the straight-ahead evaluation.
+
+## Main Project
+[KD-LHSR](https://github.com/BaiYeBuTingXuan/KD-LHSR)
